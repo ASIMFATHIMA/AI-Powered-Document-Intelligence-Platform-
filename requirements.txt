@@ -1,0 +1,7 @@
+streamlit
+pymupdf
+python-docx
+ollama
+plotly
+pandas
+mysql-connector-python

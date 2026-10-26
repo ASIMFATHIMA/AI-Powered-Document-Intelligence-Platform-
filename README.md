@@ -1,8 +1,8 @@
 # AI-Powered Document Intelligence Platform
 
-An AI-powered Streamlit application for summarizing and analyzing PDF, DOCX,
-and TXT documents. It extracts structured information, visualizes key findings,
-and supports questions about uploaded documents using Ollama.
+An AI- and NLP-powered Streamlit application for summarizing and analyzing PDF,
+DOCX, and TXT documents. It extracts structured information, visualizes key
+findings, and supports document-based questions using Ollama and TinyLlama.
 
 ## Features
 
